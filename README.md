@@ -1,9 +1,9 @@
 ### Hey👋, This is Rajagopal
 ![](https://komarev.com/ghpvc/?username=rajagopalr3)
 
-- 🔭 I’m currently working on Josh Software, Inc.
-- 🌱 I’m currently learning marketing tools such as Salesforce, Appsflyer
-- 👯 I’m looking to collaborate on Josh Software, Inc.
+- 🔭 I’m currently working with Josh Software, Inc.
+- 🌱 Learning marketing tools such as Salesforce, Appsflyer
+- 👯 Looking to collaborate on Josh Software, Inc.
 - 💬 Ask me about Android, Android Libraries, Appsflyer
 - 📫 How to reach me rajagopalr3@gmail.com
 
