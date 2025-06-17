@@ -2,9 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=rajagopalr3)
 
 - 🔭 I’m currently working with NeoSOFT.
-- 🌱 Learning marketing tools such as Salesforce, Appsflyer
-- 👯 Looking to collaborate on NeoSOFT.
-- 💬 Ask me about Android, Android Libraries, Appsflyer
+- 🌱 Working as Salesforce PD1 and Android dev
+- 💬 Ask me about Android, Salesforce Lwc, Appsflyer Analytical
 - 📫 How to reach me rajagopalr3@gmail.com
 
 
