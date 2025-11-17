@@ -6,6 +6,7 @@
 - 💬 Ask me about Android, Salesforce CRM Lwc, Appsflyer Analytical
 - 📫 How to reach me rajagopalr3@gmail.com
 
+Salesforce Certified Platform Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
