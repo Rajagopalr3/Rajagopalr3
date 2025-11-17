@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=rajagopalr3)
 
 - 🔭 I’m currently working with NeoSOFT.
-- 🌱 Working as Salesforce PD1 and Android dev
-- 💬 Ask me about Android, Salesforce Lwc, Appsflyer Analytical
+- 🌱 Working as Lead Salesforce developer and Android as well.
+- 💬 Ask me about Android, Salesforce CRM Lwc, Appsflyer Analytical
 - 📫 How to reach me rajagopalr3@gmail.com
 
 
